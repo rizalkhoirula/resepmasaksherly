@@ -118,7 +118,7 @@ export default {
 
       try {
         const response = await fetch(
-          "https://85a4-103-151-172-39.ngrok-free.app/predict_food_class/",
+          "https://ad16-103-151-172-90.ngrok-free.app/predict_food_class/",
           {
             method: "POST",
             body: formData,
